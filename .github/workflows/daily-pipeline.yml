@@ -1,0 +1,58 @@
+name: Daily Clip Pipeline
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Noon UTC (8am ET) every day
+  workflow_dispatch:       # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write  # needed to commit new clips back to the repo
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install FFmpeg
+        run: sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install feedparser anthropic openai-whisper
+
+      # Cache transcripts + analysis between runs so we only process new episodes
+      - name: Restore pipeline cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            cache/transcripts/
+            cache/analysis/
+          key: pipeline-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            pipeline-${{ runner.os }}-
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python3 scripts/process_podcasts.py \
+            --max-episodes 2 \
+            --whisper-model tiny
+
+      - name: Commit new clips
+        run: |
+          git config user.name "Clip Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add clips.json clips/ podcasts_meta.json
+          if git diff --staged --quiet; then
+            echo "No new clips — nothing to commit."
+          else
+            git commit -m "Auto: new clips $(date -u +%Y-%m-%d)"
+            git push
+          fi
