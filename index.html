@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Podcast Clip Hub</title>
+  <meta name="description" content="AI-curated clips from podcasts — the most compelling moments, surfaced automatically." />
+  <meta property="og:title" content="Podcast Clip Hub" />
+  <meta property="og:description" content="AI-curated clips from podcasts — the most compelling moments, surfaced automatically." />
+  <meta property="og:type" content="website" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="orb orb-1"></div>
+  <div class="orb orb-2"></div>
+
+  <!-- ── Sidebar ─────────────────────────────────────────────── -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <span class="brand-icon">🎙</span>
+      <div>
+        <h1 class="brand-name">Clip Hub</h1>
+        <p class="brand-sub">Sports Media</p>
+      </div>
+    </div>
+
+    <nav class="podcast-nav" id="podcastNav" aria-label="Podcast list">
+      <!-- populated by app.js -->
+    </nav>
+  </aside>
+
+  <!-- ── Main ───────────────────────────────────────────────── -->
+  <div class="main-wrap">
+
+    <header class="top-bar">
+      <button class="sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar">
+        <svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M3 5h14M3 10h14M3 15h14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        </svg>
+      </button>
+
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.6"/>
+          <path d="M13 13l4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        </svg>
+        <input
+          id="searchInput"
+          type="search"
+          placeholder="Search clips, topics, people…"
+          autocomplete="off"
+          aria-label="Search"
+        />
+      </div>
+
+      <div class="top-bar-filters">
+        <select id="topicFilter" aria-label="Filter by topic">
+          <option value="">All topics</option>
+        </select>
+        <select id="personFilter" aria-label="Filter by person">
+          <option value="">All people</option>
+        </select>
+        <select id="sortSelect" aria-label="Sort">
+          <option value="newest">Newest</option>
+          <option value="oldest">Oldest</option>
+          <option value="score">Top rated</option>
+        </select>
+      </div>
+    </header>
+
+    <main class="main-content" id="mainContent">
+
+      <div id="emptyState" class="empty-state" hidden>
+        <span class="empty-icon">🔇</span>
+        <p id="emptyMsg">No clips yet. Run the pipeline to get started.</p>
+      </div>
+
+      <div id="episodeList">
+        <!-- Episode groups populated by app.js -->
+      </div>
+
+    </main>
+  </div>
+
+  <!-- ── Clip card template ──────────────────────────────────── -->
+  <template id="clipCardTemplate">
+    <article class="card" aria-label="Clip">
+      <blockquote class="card-transcript" data-field="transcript"></blockquote>
+
+      <p class="card-reason" data-field="reason"></p>
+
+      <div class="card-tags" data-field="tags"></div>
+
+      <div class="card-audio-wrap">
+        <audio class="card-audio" controls preload="none" data-field="clip_audio">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+
+      <footer class="card-footer">
+        <span class="relevance-badge" data-field="relevance_score"></span>
+        <button class="share-btn" aria-label="Copy shareable link">
+          <svg viewBox="0 0 20 20" fill="none" aria-hidden="true">
+            <circle cx="14" cy="4" r="2" stroke="currentColor" stroke-width="1.5"/>
+            <circle cx="14" cy="16" r="2" stroke="currentColor" stroke-width="1.5"/>
+            <circle cx="4"  cy="10" r="2" stroke="currentColor" stroke-width="1.5"/>
+            <path d="M12 5.3L6 8.7M6 11.3l6 3.4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+          Copy link
+        </button>
+      </footer>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

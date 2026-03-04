@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Sports Media with Richard Deitsch",
+    "rss": "https://feeds.megaphone.fm/sports-media-deitsch",
+    "artwork_url": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "The Sports Media Podcast with Richard Deitsch is a weekly show that features interviews with members of the sports media about their work, as well as roundtables with sports media reporters about television, digital, audio/radio, print, and other forms of media."
+  },
+  {
+    "name": "The Press Box",
+    "rss": "https://feeds.megaphone.fm/the-press-box",
+    "artwork_url": "https://megaphone.imgix.net/podcasts/922c06a0-782c-11ea-8b28-9333b94098ed/image/44989ce80f0b01f28b5ac5e5f602140b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "The Ringer’s Bryan Curtis, David Shoemaker and Joel Anderson catch you up on the biggest media stories, from sports to politics and everything in between."
+  },
+  {
+    "name": "Marchand Sports Media",
+    "rss": "https://api.substack.com/feed/podcast/spotify/576f3058-a5e6-43c0-822a-8e5b55b96d40/2512778/s/140285.rss",
+    "artwork_url": "https://substackcdn.com/feed/podcast/2512778/s/140285/21fd8108810089eb97cfaf9f2c0701b5.jpg",
+    "description": "Marchand Sports Media"
+  },
+  {
+    "name": "The Varsity",
+    "rss": "https://feeds.megaphone.fm/the-varsity",
+    "artwork_url": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Puck Sports Correspondent John Ourand and a rotating cast of industry insiders take you deep inside the executive suites and owner boxes that run the entire sports business. You’ll hear interviews with everyone from players to network execs and everyone in between. The Varsity is an extension of Joh"
+  },
+  {
+    "name": "Sporticast",
+    "rss": "https://feeds.megaphone.fm/PMC3155742167",
+    "artwork_url": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "'Sporticast' is a new podcast hosted by business journalists Scott Soshnick and Eben Novy-Williams from Sportico that will deliver the inside scoop on the intersection of money and sports. From billion-dollar valuations to team sales, sponsorship contracts and media rights, go behind the scenes on t"
+  },
+  {
+    "name": "SBJ Sports Media Podcast",
+    "rss": "https://feeds.simplecast.com/zBoUPWvu",
+    "artwork_url": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "description": "The hottest headlines, network deals, ratings, trends and everything else you need to know inside sports media."
+  },
+  {
+    "name": "Channels with Peter Kafka",
+    "rss": "https://feeds.megaphone.fm/recodemedia",
+    "artwork_url": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "No-nonsense interviews about the future of media and entertainment."
+  },
+  {
+    "name": "The Town with Matthew Belloni",
+    "rss": "https://feeds.megaphone.fm/the-town-with-matthew-belloni",
+    "artwork_url": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "Puck founding partner Matthew Belloni takes you inside Hollywood, using exclusive reporting and insight to explain the backstories on everything from Marvel movies to streaming wars. Multiple times each week, Matt is joined by major executives, dealmakers, and journalists, to discuss what is getting"
+  },
+  {
+    "name": "Bill Simmons Podcast",
+    "rss": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
+    "artwork_url": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "description": "HBO and The Ringer's Bill Simmons hosts the most downloaded sports podcast of all time, with a rotating crew of celebrities, athletes, and media staples, as well as mainstays like Cousin Sal, Joe House, and a slew of other friends and family members who always happen to be suspiciously available."
+  }
+]

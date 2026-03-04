@@ -1,0 +1,12 @@
+cache/
+*.pyc
+__pycache__/
+.env
+env/
+venv/
+.venv/
+.DS_Store
+*.egg-info/
+
+# Keep clips/ directory but ignore large audio files committed by accident
+# (clips are intentionally committed when small enough for Pages)

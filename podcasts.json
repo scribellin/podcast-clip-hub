@@ -1,0 +1,108 @@
+{
+  "podcasts": [
+    {
+      "name": "Sports Media with Richard Deitsch",
+      "rss": "https://feeds.megaphone.fm/sports-media-deitsch",
+      "enabled": true
+    },
+    {
+      "name": "The Press Box",
+      "rss": "https://feeds.megaphone.fm/the-press-box",
+      "enabled": true
+    },
+    {
+      "name": "Marchand Sports Media",
+      "rss": "https://api.substack.com/feed/podcast/spotify/576f3058-a5e6-43c0-822a-8e5b55b96d40/2512778/s/140285.rss",
+      "enabled": true
+    },
+    {
+      "name": "The Varsity",
+      "rss": "https://feeds.megaphone.fm/the-varsity",
+      "enabled": true
+    },
+    {
+      "name": "Sporticast",
+      "rss": "https://feeds.megaphone.fm/PMC3155742167",
+      "enabled": true
+    },
+    {
+      "name": "SBJ Sports Media Podcast",
+      "rss": "https://feeds.simplecast.com/zBoUPWvu",
+      "enabled": true
+    },
+    {
+      "name": "Channels with Peter Kafka",
+      "rss": "https://feeds.megaphone.fm/recodemedia",
+      "enabled": true
+    },
+    {
+      "name": "The Town with Matthew Belloni",
+      "rss": "https://feeds.megaphone.fm/the-town-with-matthew-belloni",
+      "enabled": true
+    },
+    {
+      "name": "Bill Simmons Podcast",
+      "rss": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
+      "enabled": true
+    }
+  ],
+
+  "key_people": [
+    "Jimmy Pitaro",
+    "David Zaslav",
+    "Reed Hastings",
+    "Ted Sarandos",
+    "Richard Deitsch",
+    "Andrew Marchand",
+    "John Ourand",
+    "Bill Simmons",
+    "Peter Kafka",
+    "Matthew Belloni",
+    "Pete Bevacqua",
+    "Mike Mulvihill",
+    "Lachlan Murdoch",
+    "Dana White",
+    "Roger Goodell",
+    "Adam Silver",
+    "Rob Manfred",
+    "Mark Lazarus",
+    "Sean McManus",
+    "Burke Magnus",
+    "Mike Woods",
+    "Eric Shanks",
+    "Michael Strahan",
+    "Stephen A. Smith",
+    "Pat McAfee"
+  ],
+
+  "topics": [
+    "media rights",
+    "streaming strategy",
+    "ESPN",
+    "Netflix sports",
+    "Amazon Prime Video",
+    "Fox Sports",
+    "Apple TV+",
+    "Peacock",
+    "HBO Max",
+    "industry deals",
+    "layoffs",
+    "ratings",
+    "cable decline",
+    "direct-to-consumer",
+    "sports broadcasting",
+    "network strategy",
+    "Sunday Ticket",
+    "NBA deal",
+    "NFL deal",
+    "college sports rights",
+    "anchor talent",
+    "sports journalism"
+  ],
+
+  "max_episodes_per_feed": 5,
+  "clip_padding_seconds": 20,
+  "whisper_model": "base",
+  "min_relevance_score": 7,
+  "anthropic_model": "claude-opus-4-6"
+}
