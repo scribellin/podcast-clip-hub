@@ -1,5 +1,600 @@
 [
   {
+    "id": "313cd3ed2853",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "First Look: Can Netflix land the next men's World Cup?",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Netflix has the rights of the FIFA Women's World Cup in 2027 and 2031 in the US and Canada. I thought that was a really interesting purchase for them... My thought is that Netflix lines up perfectly to get the men's world cup.",
+    "reason": "Richard Deitsch lays out a specific thesis connecting Netflix's existing FIFA Women's World Cup rights to a potential bid for the 2030 men's World Cup, framing it as a natural strategic escalation for the streamer.",
+    "topics": [
+      "Netflix sports",
+      "media rights",
+      "streaming strategy"
+    ],
+    "people": [
+      "Richard Deitsch"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/313cd3ed2853.mp3",
+    "start_time": 59,
+    "end_time": 130
+  },
+  {
+    "id": "051d5463b599",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "First Look: Can Netflix land the next men's World Cup?",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "It would be strange if Netflix didn't go out for it... It is globally appealing in territories that Netflix is trying to increase engagement or increase overall adoption. In Europe, in parts of Asia Pacific, where the cable business and the broadband penetration rate is still not as high, you really start seeing how that linear television setting is still remaining kind of the go to.",
+    "reason": "Julia Alexander provides specific strategic analysis of why the men's World Cup fits Netflix's international growth thesis, identifying Europe and Asia Pacific as key territories where streaming adoption still lags linear TV.",
+    "topics": [
+      "Netflix sports",
+      "streaming strategy",
+      "media rights",
+      "cable decline",
+      "direct-to-consumer"
+    ],
+    "people": [],
+    "relevance_score": 9,
+    "clip_audio": "clips/051d5463b599.mp3",
+    "start_time": 131,
+    "end_time": 210
+  },
+  {
+    "id": "ba9d202407de",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "First Look: Can Netflix land the next men's World Cup?",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Do you sacrifice that big broadcast reach to go all in on Netflix? That may also include more dollars. Or if your FIFA do you say like, we'll give you the domestic rights... but we're going to go with the local broadcasters in European international because that's still important to us.",
+    "reason": "Alexander raises the critical tension FIFA faces between maximizing revenue from Netflix versus preserving global broadcast reach in markets not yet fully adopting streaming — a nuanced strategic question at the heart of modern sports rights negotiations.",
+    "topics": [
+      "media rights",
+      "streaming strategy",
+      "Netflix sports",
+      "Fox Sports",
+      "industry deals"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/ba9d202407de.mp3",
+    "start_time": 210,
+    "end_time": 270
+  },
+  {
+    "id": "4a541a9f150f",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "First Look: Can Netflix land the next men's World Cup?",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "If I'm FIFA and I say Netflix, we're going to give you the US rights to the men's cup. Whatever the dollar figure is, the only thing we ask is that you cut a deal with a network like Fox or CBS, or NBC where the world cup final has to be on network television in the United States.",
+    "reason": "Deitsch proposes a specific hybrid deal structure — Netflix holds domestic rights but must sublicense the final to broadcast TV — which could become a real template for future mega-event negotiations.",
+    "topics": [
+      "media rights",
+      "Netflix sports",
+      "Fox Sports",
+      "streaming strategy",
+      "network strategy"
+    ],
+    "people": [
+      "Richard Deitsch"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/4a541a9f150f.mp3",
+    "start_time": 270,
+    "end_time": 330
+  },
+  {
+    "id": "be057c34874e",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "First Look: Can Netflix land the next men's World Cup?",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Ted Sarandos and Greg Peters bring up all the time Japan as a territory that's extremely high value because of the household income of those subscribers. But the engagement is much lower than they want... So having baseball and having Shohei Ohtani is massive.",
+    "reason": "Alexander reveals specific Netflix executive priorities — Ted Sarandos and Greg Peters have identified Japan as high-value but low-engagement, explaining the strategic rationale behind Netflix's MLB and baseball investments as a lever to boost international engagement.",
+    "topics": [
+      "Netflix sports",
+      "streaming strategy",
+      "ratings",
+      "direct-to-consumer"
+    ],
+    "people": [
+      "Ted Sarandos"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/be057c34874e.mp3",
+    "start_time": 330,
+    "end_time": 410
+  },
+  {
+    "id": "dd768aa03c8c",
+    "podcast_name": "Sporticast",
+    "episode_title": "WNBA Players Shift Tone on CBA, Dolphins Raise at $12.5B",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "These are big name high profile players with very large platforms who were the first to sort of voice some displeasure... It was a bit easy to think that the WNBA owners were the ones that were going to fracture first.",
+    "reason": "Detailed insider analysis of WNBA CBA negotiations breaking down, with specific players Brianna Stewart and Kelsey Plum sending a letter to union leader Terry Carmichael Jackson, signaling cracks in the players' united front that shifts leverage toward ownership.",
+    "topics": [
+      "industry deals",
+      "sports broadcasting"
+    ],
+    "people": [
+      "Adam Silver"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/dd768aa03c8c.mp3",
+    "start_time": 87,
+    "end_time": 258
+  },
+  {
+    "id": "ef731c09a2d1",
+    "podcast_name": "Sporticast",
+    "episode_title": "WNBA Players Shift Tone on CBA, Dolphins Raise at $12.5B",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Games missed now for you, you do not get that money back. You have a finite career and that is money you will never see. An owner negotiates a slide of a decimal point to the right or left, that is benefit in perpetuity as long as they own the franchise.",
+    "reason": "Candid structural analysis of why owners hold inherent leverage in labor disputes across all professional sports, including the revelation that media contracts historically guaranteed payments to leagues whether games were played or not.",
+    "topics": [
+      "media rights",
+      "industry deals"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/ef731c09a2d1.mp3",
+    "start_time": 460,
+    "end_time": 545
+  },
+  {
+    "id": "059021dc3bd8",
+    "podcast_name": "Sporticast",
+    "episode_title": "WNBA Players Shift Tone on CBA, Dolphins Raise at $12.5B",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Rob Walton, who is the richest owner in professional sports... very quietly bought into the Arizona Diamondbacks two years ago, 10% of the team, $2 billion valuation. That's a $200 million check.",
+    "reason": "Breaking news about Rob Walton's previously unreported investment in the Arizona Diamondbacks at a $2 billion valuation, expanding his sports portfolio across NFL (Broncos), F1 (McLaren), and now MLB.",
+    "topics": [
+      "industry deals"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/059021dc3bd8.mp3",
+    "start_time": 620,
+    "end_time": 732
+  },
+  {
+    "id": "87542061eb11",
+    "podcast_name": "Sporticast",
+    "episode_title": "WNBA Players Shift Tone on CBA, Dolphins Raise at $12.5B",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "We get word that Linbin, a cellular executive magnate in China, bought one percent of the Dolphins at a 12 and a half billion dollar valuation... Did you think that we would see a deal that would eclipse the 10 billion that the New York Giants were valued at this quickly?",
+    "reason": "Major NFL valuation milestone — the Miami Dolphins valued at $12.5 billion, eclipsing the Giants' $10 billion mark by 25%, with a Chinese tech billionaire (Xiaomi co-founder) as the new investor, raising geopolitical questions about NFL ownership.",
+    "topics": [
+      "industry deals"
+    ],
+    "people": [],
+    "relevance_score": 9,
+    "clip_audio": "clips/87542061eb11.mp3",
+    "start_time": 793,
+    "end_time": 872
+  },
+  {
+    "id": "2c3229b07007",
+    "podcast_name": "Sporticast",
+    "episode_title": "WNBA Players Shift Tone on CBA, Dolphins Raise at $12.5B",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "What Miami and Steven Ross and that ownership group have done with that F1 race, which is included in this team evaluation, is really big. So it's the F1 race, it's the stadium, it's the Dolphins, it's also a large chunk of the Miami Open.",
+    "reason": "Specific breakdown of how the Dolphins' $12.5 billion valuation is driven by ancillary business flywheel including F1 Miami Grand Prix, Hard Rock Stadium, and the Miami Open tennis event — a model for sports franchise portfolio strategy.",
+    "topics": [
+      "industry deals",
+      "revenue figures, viewership data, or business metrics"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/2c3229b07007.mp3",
+    "start_time": 872,
+    "end_time": 940
+  },
+  {
+    "id": "7ce4e7be140b",
+    "podcast_name": "Sporticast",
+    "episode_title": "WNBA Players Shift Tone on CBA, Dolphins Raise at $12.5B",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Mark Lazari's Avenue Sports Fund investing $40 million into the North Carolina Courage, $155 million pre-money valuation... the NWSL is the only major U.S. sports league that allows institutional funds to control teams.",
+    "reason": "Significant NWSL transaction with specific financial details revealing rapid valuation growth, plus the unique structural point that NWSL is the only major US league allowing institutional fund control of teams.",
+    "topics": [
+      "industry deals"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/7ce4e7be140b.mp3",
+    "start_time": 960,
+    "end_time": 1058
+  },
+  {
+    "id": "e287f1c75872",
+    "podcast_name": "Sporticast",
+    "episode_title": "WNBA Players Shift Tone on CBA, Dolphins Raise at $12.5B",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Verizon was pondering, do we want to pull back on the NFL? Ultimately, the decision was made no... a ten year deal struck in 2021 worth more than a billion dollars total. At any time you hear a company interested in doing less business with the NFL, I think it raises eyebrows.",
+    "reason": "Revealing that Verizon — one of the NFL's largest corporate partners at $100M+ annually — seriously considered scaling back its NFL sponsorship under new CEO leadership, a rare sign of potential softness in NFL sponsorship market.",
+    "topics": [
+      "industry deals",
+      "revenue figures, viewership data, or business metrics"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/e287f1c75872.mp3",
+    "start_time": 1197,
+    "end_time": 1351
+  },
+  {
+    "id": "0e71ac88e995",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "David Ellison pays up; a new direction for games in Detroit; and CAA Sports’ top broadcasting agents give a lay of the land",
+    "episode_date": "2026-03-05",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "David Ellison, he's going to have a sports portfolio at paramount skydance that rivals ESPN. Another winner here, David Zazlov... he got a deal done valuing that at around $31 a share. He's going to take home just around $600 million in a golden parachute.",
+    "reason": "Detailed analysis of the Paramount-Skydance-WBD merger with specific financial figures, identifying winners including Zaslav's $600M golden parachute and the stock valuation jump from $7 to $31 per share.",
+    "topics": [
+      "industry deals",
+      "media rights",
+      "streaming strategy"
+    ],
+    "people": [
+      "David Zaslav",
+      "David Ellison"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/0e71ac88e995.mp3",
+    "start_time": 101,
+    "end_time": 239
+  },
+  {
+    "id": "7a67e2cd37aa",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "David Ellison pays up; a new direction for games in Detroit; and CAA Sports’ top broadcasting agents give a lay of the land",
+    "episode_date": "2026-03-05",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "Ted Serando's, Bella Bajaria, they were just gifted around $2.8 billion in a breakup fee. That's free money. So how are they going to spend it? Maybe they go after a really high end sports property... maybe it's an NFL package they weren't thinking about. Maybe it's a stronger bid for the men's world cup rights.",
+    "reason": "Specific revelation about Netflix receiving a $2.8B breakup fee from the failed WBD bid and strategic speculation about how it could be deployed for premium sports rights like the NFL or FIFA Men's World Cup.",
+    "topics": [
+      "Netflix sports",
+      "media rights",
+      "NFL deal",
+      "streaming strategy"
+    ],
+    "people": [
+      "Ted Sarandos"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/7a67e2cd37aa.mp3",
+    "start_time": 209,
+    "end_time": 295
+  },
+  {
+    "id": "36cce3ace558",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "David Ellison pays up; a new direction for games in Detroit; and CAA Sports’ top broadcasting agents give a lay of the land",
+    "episode_date": "2026-03-05",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "We know already that paramount skydance is going to be looking for around $6 billion in savings. That's not all going to come from the movie studio and streaming sites... CBS is going to be asked to pony up a lot for the NFL. The company also just paid way above market value to get that seven year deal for the UFC.",
+    "reason": "Analysis of the potential losers from media consolidation — fewer bidders for rights long-term, and specific identification of sports properties (NHL, MLB, NWSL) that may be cut as 'nice to have' versus 'must have' amid $6B in targeted savings.",
+    "topics": [
+      "media rights",
+      "cable decline",
+      "NFL deal",
+      "network strategy"
+    ],
+    "people": [
+      "Dana White"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/36cce3ace558.mp3",
+    "start_time": 259,
+    "end_time": 355
+  },
+  {
+    "id": "c4096b21272c",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "David Ellison pays up; a new direction for games in Detroit; and CAA Sports’ top broadcasting agents give a lay of the land",
+    "episode_date": "2026-03-05",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "If you look at what Amazon is doing from a big MBA package, a Thursday night in the fall package, and WSL... they're investing in the volume business on a global scale. And it's the opposite conversation we're having with our clients about Netflix... they want to be event driven, they want to be premium.",
+    "reason": "CAA agents provide insider analysis contrasting Amazon's volume-driven sports strategy with Netflix's event-driven approach, and how this fundamentally changes talent placement conversations — a rare agent perspective on streaming strategy.",
+    "topics": [
+      "Amazon Prime Video",
+      "Netflix sports",
+      "streaming strategy",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/c4096b21272c.mp3",
+    "start_time": 781,
+    "end_time": 901
+  },
+  {
+    "id": "4a9b6aa1b9a9",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "David Ellison pays up; a new direction for games in Detroit; and CAA Sports’ top broadcasting agents give a lay of the land",
+    "episode_date": "2026-03-05",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "I think it's probably clients that are owning their own IP now. A lot of credit goes to personalities like Pat McAfee who started the sort of philosophy of owning my own IP and then licensing it to the networks. I think we're starting to see networks be interested in simply being distribution models.",
+    "reason": "Major trend identified by top talent agents: the shift toward talent owning their own IP and licensing it to networks, with Pat McAfee cited as the pioneer — signaling a fundamental power shift in sports broadcasting.",
+    "topics": [
+      "sports broadcasting",
+      "anchor talent",
+      "streaming strategy"
+    ],
+    "people": [
+      "Pat McAfee"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/4a9b6aa1b9a9.mp3",
+    "start_time": 930,
+    "end_time": 1017
+  },
+  {
+    "id": "6877aad0a499",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "David Ellison pays up; a new direction for games in Detroit; and CAA Sports’ top broadcasting agents give a lay of the land",
+    "episode_date": "2026-03-05",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "They also talked about their client Travis Kelsey, if he retires. He would be the biggest free agent out there in terms of TV talent... NBC, CBS, they both have big needs for another studio analyst, Tony Dungey out with football, 9 America, Matt Ryan, off of the NFL today.",
+    "reason": "Insider intelligence about the TV talent market: Travis Kelce as the biggest potential free agent, plus specific openings at NBC (Dungy departure) and CBS (Matt Ryan leaving for Falcons front office).",
+    "topics": [
+      "anchor talent",
+      "sports broadcasting",
+      "network strategy"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/6877aad0a499.mp3",
+    "start_time": 1087,
+    "end_time": 1136
+  },
+  {
+    "id": "51734fd3324c",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "David Ellison pays up; a new direction for games in Detroit; and CAA Sports’ top broadcasting agents give a lay of the land",
+    "episode_date": "2026-03-05",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "Elich Sports and Entertainment have launched Detroit SportsNet... the service is going to be powered by MLB media. So they are kind of going over that umbrella, all be it with a unique hybrid approach here for illidge sports.",
+    "reason": "Specific new RSN development in Detroit with a unique hybrid model powered by MLB media, signaling continued experimentation in regional sports network restructuring amid the broader RSN crisis.",
+    "topics": [
+      "media rights",
+      "direct-to-consumer",
+      "network strategy"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/51734fd3324c.mp3",
+    "start_time": 1148,
+    "end_time": 1224
+  },
+  {
+    "id": "2c1038078649",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "David Ellison pays up; a new direction for games in Detroit; and CAA Sports’ top broadcasting agents give a lay of the land",
+    "episode_date": "2026-03-05",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "Unrivaled really needs to stabilize viewership across TNT sports. A little over a 40% drop this season from season one, not very healthy... TNT has an out on that six year $100 million deal after next season.",
+    "reason": "Specific viewership and deal metrics for Unrivaled — a 40% season-over-season ratings drop and TNT's opt-out clause after next season on their $100M deal, raising real questions about the league's viability as a TV property.",
+    "topics": [
+      "ratings",
+      "media rights",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/2c1038078649.mp3",
+    "start_time": 1310,
+    "end_time": 1400
+  },
+  {
+    "id": "8c5076db8b85",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "Investor Gerry Cardinale on Why WarnerMount Will Work, Middle East Money, and Layoffs",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "When we close, we will have net leverage at 4.3 times. That's why you have to link cash flow and leverage... I'm giving us a hundred percent credit for those synergies. We've shown in the short track record that we've already established with Paramount, we've shown the ability to execute and outperform on synergy.",
+    "reason": "Cardinale provides the specific financial framing for the $79B debt load, arguing 4.3x net leverage pro forma for $6B in synergies — a key metric that will define whether this deal succeeds or becomes another Warner Discovery cautionary tale.",
+    "topics": [
+      "industry deals",
+      "streaming strategy"
+    ],
+    "people": [
+      "Gerry Cardinale",
+      "David Ellison"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/8c5076db8b85.mp3",
+    "start_time": 103,
+    "end_time": 300
+  },
+  {
+    "id": "ff8760bd4309",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "Investor Gerry Cardinale on Why WarnerMount Will Work, Middle East Money, and Layoffs",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Ted Sarandos called your deal irrational. Greg Peters told the Financial Times he can't make sense of this deal... I don't let guys with no track record in any kind of large-scale M&A be the pacecar for the narratives. Netflix has no track record in any kind of large-scale M&A.",
+    "reason": "Cardinale directly fires back at Netflix leadership by name, dismissing Ted Sarandos and Greg Peters' public criticism of the deal and attacking Netflix's lack of M&A experience — a rare public confrontation between major industry players.",
+    "topics": [
+      "industry deals",
+      "Netflix sports",
+      "streaming strategy"
+    ],
+    "people": [
+      "Ted Sarandos",
+      "Gerry Cardinale",
+      "David Ellison"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/ff8760bd4309.mp3",
+    "start_time": 493,
+    "end_time": 595
+  },
+  {
+    "id": "c19f25527803",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "Investor Gerry Cardinale on Why WarnerMount Will Work, Middle East Money, and Layoffs",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Number one, we're going to consolidate our streaming technology stacks and our cloud providers across Paramount Plus and HBO Max... The majority of our synergies that are cost related have nothing to do with firing people.",
+    "reason": "Cardinale walks through the specific buckets of the $6B synergy plan — tech stack consolidation, real estate optimization, procurement, marketing, and ERP migration — while insisting the majority of cost savings won't come from layoffs, a crucial claim for Hollywood workers.",
+    "topics": [
+      "layoffs",
+      "streaming strategy",
+      "direct-to-consumer",
+      "industry deals"
+    ],
+    "people": [
+      "Gerry Cardinale"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/c19f25527803.mp3",
+    "start_time": 831,
+    "end_time": 970
+  },
+  {
+    "id": "7b633a484de4",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "Investor Gerry Cardinale on Why WarnerMount Will Work, Middle East Money, and Layoffs",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "You're confirming right now that you will not sell the Paramount or Warner Brothers lots in Hollywood and Burbank? That is correct. That is the intention right now.",
+    "reason": "Cardinale makes a definitive statement that both the Paramount and Warner Bros. studio lots will be kept, directly contradicting rumors that Larry Ellison saw the deal partly as a real estate play.",
+    "topics": [
+      "industry deals"
+    ],
+    "people": [
+      "Gerry Cardinale",
+      "David Ellison"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/7b633a484de4.mp3",
+    "start_time": 903,
+    "end_time": 939
+  },
+  {
+    "id": "ea0084ab7584",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "Investor Gerry Cardinale on Why WarnerMount Will Work, Middle East Money, and Layoffs",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Are those Middle East backers still in this deal?... The Ellison family and Redbird are backstopping the entire $47 billion event. We haven't syndicated anything at this time. We do expect to syndicate with strategic domestic and foreign investors.",
+    "reason": "Cardinale reveals that the previously announced $24B Middle East consortium (Saudi, Qatari, Abu Dhabi investors) has not yet been finalized and that Ellison/Redbird are backstopping the full equity commitment — a significant update on deal structure and geopolitical implications for CNN/CBS News ownership.",
+    "topics": [
+      "industry deals"
+    ],
+    "people": [
+      "Gerry Cardinale",
+      "David Ellison"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/ea0084ab7584.mp3",
+    "start_time": 1100,
+    "end_time": 1170
+  },
+  {
+    "id": "eee940c6aec1",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "Investor Gerry Cardinale on Why WarnerMount Will Work, Middle East Money, and Layoffs",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Our guy David Zaslav, will he have a role at this company? We're talking to David. We offered him a role early on... David Zaslav is a man of the people. He really cares about his people. He cashed out $14 million of shares yesterday as all of his employees are freaking out about their own jobs.",
+    "reason": "A candid and combative exchange about David Zaslav's future role at WarnerMount, with Belloni pushing back sharply on Cardinale's praise of Zaslav by citing his stock sale timing — revealing the tension between deal optics and employee anxiety.",
+    "topics": [
+      "industry deals",
+      "layoffs"
+    ],
+    "people": [
+      "David Zaslav",
+      "Gerry Cardinale",
+      "David Ellison",
+      "Matthew Belloni"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/eee940c6aec1.mp3",
+    "start_time": 1380,
+    "end_time": 1450
+  },
+  {
+    "id": "2816c9f06acd",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "Investor Gerry Cardinale on Why WarnerMount Will Work, Middle East Money, and Layoffs",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Nobody believes you guys that you're going to make 30 movies a year for theaters... When we bought Paramount, it was doing eight and we're on track this year to do 16. And then Warner will be 14 to 15. So we're already at the 30-31 level.",
+    "reason": "Cardinale defends the ambitious 30-film theatrical slate commitment by showing the math of combining both studios' current output, while acknowledging the real challenge is rationalizing costs — a key data point for the theatrical exhibition industry.",
+    "topics": [
+      "network strategy",
+      "industry deals"
+    ],
+    "people": [
+      "Gerry Cardinale"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/2816c9f06acd.mp3",
+    "start_time": 1470,
+    "end_time": 1560
+  },
+  {
+    "id": "2ffc7a8871cb",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "Investor Gerry Cardinale on Why WarnerMount Will Work, Middle East Money, and Layoffs",
+    "episode_date": "2026-03-05",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Jeff Zucker is your partner at Redbird... Might you bring him over to run the combined CNN CBS news? Look, Jeff will be the executive chairman of All3Media/Banijay... We've got to see what we're going to do there. I don't have an answer for you.",
+    "reason": "Cardinale notably does not rule out Jeff Zucker eventually running the combined CBS News/CNN operation, despite his current Banijay role — a significant signal about potential news leadership changes at the merged company.",
+    "topics": [
+      "network strategy",
+      "industry deals"
+    ],
+    "people": [
+      "Gerry Cardinale",
+      "David Ellison"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/2ffc7a8871cb.mp3",
+    "start_time": 1790,
+    "end_time": 1870
+  },
+  {
     "id": "e2ee3eee8c2f",
     "podcast_name": "The Varsity",
     "episode_title": "Can ParaBros Keep the NFL?",
@@ -431,6 +1026,427 @@
     "end_time": 5700
   },
   {
+    "id": "4c2aa7dbee90",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can ParaBros Keep the NFL?",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Paramount used UFC as an example of how this newfound synergy between the two is going to work... UFC fights also could be carried on TNT too. 'We do have that flexibility,' he said. That was as clear as any that the company plans to splash its various rights around its portfolio to buttress declining carriage fees.",
+    "reason": "Ourand provides specific insight on the Paramount-Warner Bros. Discovery merger's sports strategy, with David Ellison signaling UFC rights could be distributed across both CBS and TNT to support cable economics.",
+    "topics": [
+      "industry deals",
+      "network strategy",
+      "cable decline",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/4c2aa7dbee90.mp3",
+    "start_time": 160,
+    "end_time": 240
+  },
+  {
+    "id": "e125962c90d2",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can ParaBros Keep the NFL?",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The NFL on that cost per viewer hour, which arguably is the ultimate driver of value for the networks, is at a significant discount to some other properties, most notably the NBA, which saw these pretty massive step-ups several years ago.",
+    "reason": "Morris introduces a key analytical framework—cost per viewer hour—revealing that the NFL is undervalued relative to the NBA despite its $110 billion in deals, which has major implications for upcoming negotiations.",
+    "topics": [
+      "media rights",
+      "NFL deal",
+      "NBA deal",
+      "ratings"
+    ],
+    "people": [],
+    "relevance_score": 9,
+    "clip_audio": "clips/e125962c90d2.mp3",
+    "start_time": 327,
+    "end_time": 410
+  },
+  {
+    "id": "750a9ce60106",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can ParaBros Keep the NFL?",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The NBA was fortunate enough to perhaps be quote unquote overpaid... that doesn't mean that the NFL can sort of wave a magic wand and move its rights fees to look similar on a per viewer hour basis to the NBA. Because they have four times as many viewers. That is a big price even if it's worth it.",
+    "reason": "This is a nuanced insider analysis explaining why the NFL can't simply demand NBA-level per-viewer rates despite being undervalued—the sheer scale of NFL viewership creates an affordability ceiling for networks.",
+    "topics": [
+      "media rights",
+      "NFL deal",
+      "NBA deal",
+      "network strategy"
+    ],
+    "people": [],
+    "relevance_score": 9,
+    "clip_audio": "clips/750a9ce60106.mp3",
+    "start_time": 610,
+    "end_time": 690
+  },
+  {
+    "id": "c9ee03e06953",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can ParaBros Keep the NFL?",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "If I watch the NFL through a PTV subscription... and let's say the NFL is 40% of what's important to me as a subscriber, that's $40 a month... that math does not flip right now. The NFL is not getting 40% of the PTV subscriptions.",
+    "reason": "Morris makes a specific, quantified argument that the NFL is being underpaid relative to its value in driving pay-TV subscriptions, suggesting the bundle economics still shortchange the league.",
+    "topics": [
+      "cable decline",
+      "media rights",
+      "NFL deal",
+      "direct-to-consumer"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/c9ee03e06953.mp3",
+    "start_time": 830,
+    "end_time": 920
+  },
+  {
+    "id": "6f449d2fda61",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can ParaBros Keep the NFL?",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "CBS has been a distribution partner for the NFL since 1959... while certainly the NFL has expanded its partnerships—they have seven partners now that includes YouTube and Netflix most recently—they still do have a core package on CBS.",
+    "reason": "Highlights the NFL's strategic balancing act of expanding to seven distribution partners including tech streamers while maintaining legacy broadcast relationships, illustrating the league's diversification strategy.",
+    "topics": [
+      "NFL deal",
+      "network strategy",
+      "streaming strategy",
+      "Netflix sports"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/6f449d2fda61.mp3",
+    "start_time": 1135,
+    "end_time": 1200
+  },
+  {
+    "id": "20272ccf5008",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can ParaBros Keep the NFL?",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "When I look at Amazon and YouTube in particular, both with incredibly robust advertising businesses and really what I would consider industry-leading next-gen advertising businesses with respect to targeting and consumer knowledge... our prediction was that YouTube and Netflix will both secure packages that are bigger than what they currently have.",
+    "reason": "A concrete prediction from a Guggenheim senior analyst that YouTube and Netflix will expand their NFL packages, driven by their superior ad-tech capabilities that allow them to extract more value per game than traditional networks.",
+    "topics": [
+      "streaming strategy",
+      "NFL deal",
+      "Amazon Prime Video",
+      "Netflix sports",
+      "industry deals"
+    ],
+    "people": [],
+    "relevance_score": 9,
+    "clip_audio": "clips/20272ccf5008.mp3",
+    "start_time": 1303,
+    "end_time": 1416
+  },
+  {
+    "id": "5d9b8573aa3c",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can ParaBros Keep the NFL?",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "When you look at the data they make every single one of their in-market games... available free to air and beyond that... it's still almost 90% of those national games are available on a free-to-air basis.",
+    "reason": "Provides specific data on NFL game accessibility amid growing regulatory concern from the FCC and Congress about games moving to streaming, arguing the NFL has a defensible position.",
+    "topics": [
+      "NFL deal",
+      "streaming strategy",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/5d9b8573aa3c.mp3",
+    "start_time": 1467,
+    "end_time": 1558
+  },
+  {
+    "id": "222a83f47953",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can ParaBros Keep the NFL?",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "I think Amazon has done a great job with that Thursday night package. I feel like Thursday has almost become fun day Monday maybe a little diminished... I would argue that the Sunday night package is the most attractive and arguably if bidding opened up you would see the most aggressive bidding on that.",
+    "reason": "Morris offers a specific prediction on the relative value hierarchy of NFL prime-time windows, suggesting Thursday Night Football on Amazon has risen in stature while Monday Night Football may be declining—significant for ESPN's negotiating position.",
+    "topics": [
+      "NFL deal",
+      "Amazon Prime Video",
+      "ESPN",
+      "network strategy"
+    ],
+    "people": [
+      "Jimmy Pitaro"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/222a83f47953.mp3",
+    "start_time": 1596,
+    "end_time": 1707
+  },
+  {
+    "id": "cdb52f73aa9e",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "The World’s Cup Is Coming to Trump’s America, with Roger Bennett",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The Premier League 2013, NBC started to do such an incredible job of giving Americans a storyline week to week. And then streamers realized they could, with the tip of the arrowhead, who'd pay $10 a month to watch things? Oh, football fans, niche passionate audiences. The EA Sports FIFA franchise sensitized Americans to the players, the leagues, the teams dorm room by dorm room.",
+    "reason": "Bennett maps the pipeline that built the US soccer audience — NBC's Premier League deal, streaming's direct-to-consumer model targeting niche sports fans, and the FIFA video game franchise — offering a concrete case study of how sports media rights gain value through audience development.",
+    "topics": [
+      "streaming strategy",
+      "Peacock",
+      "direct-to-consumer",
+      "media rights",
+      "ratings"
+    ],
+    "people": [
+      "Roger Bennett"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/cdb52f73aa9e.mp3",
+    "start_time": 1318,
+    "end_time": 1430
+  },
+  {
+    "id": "1112968140c0",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "The World’s Cup Is Coming to Trump’s America, with Roger Bennett",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Building for the first time a media platform which can deliver for leagues, for players, for partners the ability to speak to this massive vibrant American football communities... it's not like building a baseball platform or an NBA platform where there's a huge pyramid of offerings. At the beginning when we started, there was nothing. We've grown from one podcast to doing over a thousand a year.",
+    "reason": "Bennett describes the Men in Blazers media business scaling to 90 employees and 1,000+ podcasts annually after raising $15 million, illustrating the opportunity in building niche sports media platforms in underserved verticals.",
+    "topics": [
+      "sports broadcasting",
+      "direct-to-consumer",
+      "streaming strategy"
+    ],
+    "people": [
+      "Roger Bennett"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/1112968140c0.mp3",
+    "start_time": 1430,
+    "end_time": 1530
+  },
+  {
+    "id": "58d46cca3348",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "The World’s Cup Is Coming to Trump’s America, with Roger Bennett",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The NFL, obviously massive. The NBA enormous. But right after that, for this young audience in the United States, it's soccer of the different kinds... the men in blazers media network covers them all 24/7, 365.",
+    "reason": "Bennett makes a bold claim about soccer's position in the US sports hierarchy — third behind NFL and NBA for young audiences — which has significant implications for media rights valuations and streaming platform strategy.",
+    "topics": [
+      "ratings",
+      "media rights",
+      "sports broadcasting"
+    ],
+    "people": [
+      "Roger Bennett"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/58d46cca3348.mp3",
+    "start_time": 1530,
+    "end_time": 1580
+  },
+  {
+    "id": "3d7368c9d052",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "An NBA Mailbag, LeBron’s Next Move, and the Wild Paramount-WBD Merger With David Jacoby and Matt Belloni",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Today the Paramount stock got downgraded to junk status... Their debt was downgraded. All right so I have so many ways to go here.",
+    "reason": "Immediate news hook about the Paramount-WBD merger with the debt downgrade to junk status, setting up the entire discussion about the $79 billion debt load and viability of the deal.",
+    "topics": [
+      "industry deals",
+      "streaming strategy"
+    ],
+    "people": [
+      "Matt Belloni",
+      "David Zaslav"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/3d7368c9d052.mp3",
+    "start_time": 4822,
+    "end_time": 4920
+  },
+  {
+    "id": "18ea359080ad",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "An NBA Mailbag, LeBron’s Next Move, and the Wild Paramount-WBD Merger With David Jacoby and Matt Belloni",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "It is unbelievable the company lost two thirds of its value under his leadership. The only thing that raised the stock was the prospect of it being sold... all you need is two bidders and then next thing you know the stock goes from $7 a share to $31 a share at the sale.",
+    "reason": "Belloni delivers a devastating assessment of Zaslav's tenure at Warner Bros Discovery, with specific stock price data showing how the bidding war between Netflix and Ellison was the only thing that saved shareholders.",
+    "topics": [
+      "industry deals",
+      "streaming strategy"
+    ],
+    "people": [
+      "David Zaslav",
+      "Bill Simmons",
+      "Matt Belloni"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/18ea359080ad.mp3",
+    "start_time": 5094,
+    "end_time": 5250
+  },
+  {
+    "id": "154a9817c10d",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "An NBA Mailbag, LeBron’s Next Move, and the Wild Paramount-WBD Merger With David Jacoby and Matt Belloni",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "He's gone in a year from being a guy with a semi-successful production company to arguably the second or third most powerful person in Hollywood... he's got sports, he's now the proprietor of arguably the most lucrative NFL package, the AFC package on Sundays, he's got March Madness.",
+    "reason": "Specific breakdown of David Ellison's meteoric rise and the sports rights portfolio he now controls, including the AFC NFL package, March Madness, USC, and golf.",
+    "topics": [
+      "media rights",
+      "sports broadcasting",
+      "industry deals"
+    ],
+    "people": [
+      "Matt Belloni",
+      "Bill Simmons"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/154a9817c10d.mp3",
+    "start_time": 5370,
+    "end_time": 5520
+  },
+  {
+    "id": "326c3c8da8fc",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "An NBA Mailbag, LeBron’s Next Move, and the Wild Paramount-WBD Merger With David Jacoby and Matt Belloni",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The initial projections for Warner Brothers Discovery, they said they were going to have $14 billion a year in EBITDA... it's because the linear TV business which is where these companies make most of their money still, the linear TV business is collapsing faster than people anticipated.",
+    "reason": "Belloni provides specific revenue figures showing how linear TV's collapse from $14B to $8.5B in projected EBITDA fundamentally broke the WBD business model, with concrete numbers rarely shared publicly.",
+    "topics": [
+      "cable decline",
+      "industry deals",
+      "ratings"
+    ],
+    "people": [
+      "David Zaslav",
+      "Matt Belloni"
+    ],
+    "relevance_score": 10,
+    "clip_audio": "clips/326c3c8da8fc.mp3",
+    "start_time": 5640,
+    "end_time": 5810
+  },
+  {
+    "id": "3c4a0605185d",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "An NBA Mailbag, LeBron’s Next Move, and the Wild Paramount-WBD Merger With David Jacoby and Matt Belloni",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Netflix famously has a culture where you can get a no from one division of the company and then you can get a yes from another... The HBO process is really rigorous. They are not afraid to scrap a pilot and start over... they completely reshot that pilot. Most places would just say just cut bait.",
+    "reason": "Insider analysis comparing HBO and Netflix creative cultures and the real risk that HBO's quality-focused development process won't survive the merger's cost-cutting pressures.",
+    "topics": [
+      "HBO Max",
+      "Netflix sports",
+      "streaming strategy",
+      "network strategy"
+    ],
+    "people": [
+      "Matt Belloni"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/3c4a0605185d.mp3",
+    "start_time": 6093,
+    "end_time": 6240
+  },
+  {
+    "id": "1863f57c8e42",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "An NBA Mailbag, LeBron’s Next Move, and the Wild Paramount-WBD Merger With David Jacoby and Matt Belloni",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "CBS Paramount, absolutely have to have it. They have the number one program in all of television... Fox, it's mission critical. What is Fox without NFL?... The Bank of America analyst just downgraded Fox because of this whole prospect of the rights going up.",
+    "reason": "Systematic ranking of all seven NFL rights suitors with specific business rationale for each, including the Bank of America downgrade of Fox stock over anticipated rights cost increases.",
+    "topics": [
+      "NFL deal",
+      "media rights",
+      "Fox Sports",
+      "ESPN",
+      "network strategy"
+    ],
+    "people": [
+      "Roger Goodell",
+      "Matt Belloni",
+      "Bill Simmons"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/1863f57c8e42.mp3",
+    "start_time": 6303,
+    "end_time": 6480
+  },
+  {
+    "id": "96364f76f05d",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "An NBA Mailbag, LeBron’s Next Move, and the Wild Paramount-WBD Merger With David Jacoby and Matt Belloni",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Sony got $7 billion to license their movies to Netflix... it's a multi-year deal and it's global but that's a pretty big vote of confidence in your studio to get Netflix to pay you $7 billion to get the first run on the new movies.",
+    "reason": "Specific deal figure revealing Sony's arms-dealer strategy of selling content to streamers rather than building their own platform, with $7B Netflix licensing deal as proof of concept.",
+    "topics": [
+      "Netflix sports",
+      "streaming strategy",
+      "industry deals"
+    ],
+    "people": [
+      "Matt Belloni"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/96364f76f05d.mp3",
+    "start_time": 6850,
+    "end_time": 6970
+  },
+  {
+    "id": "34ee7d559032",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "An NBA Mailbag, LeBron’s Next Move, and the Wild Paramount-WBD Merger With David Jacoby and Matt Belloni",
+    "episode_date": "2026-03-04",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "A guy should not make $800 million off of a financial transaction that causes thousands of jobs to be lost... this guy who managed the company down, down, down, and then got lucky when someone wanted to buy it can make that kind of money.",
+    "reason": "Belloni's blunt moral critique of Zaslav's potential $800M payout despite presiding over WBD's decline, highlighting the disconnect between executive compensation and company performance.",
+    "topics": [
+      "industry deals"
+    ],
+    "people": [
+      "David Zaslav",
+      "Matt Belloni"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/34ee7d559032.mp3",
+    "start_time": 7078,
+    "end_time": 7200
+  },
+  {
     "id": "c44db8c4544b",
     "podcast_name": "Sports Media with Richard Deitsch",
     "episode_title": "How NBC is approaching coverage of the Milano Cortina 2026 Paralympic Winter Games",
@@ -710,6 +1726,470 @@
     "end_time": 1910
   },
   {
+    "id": "7f05371e3adc",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "How NBC is approaching coverage of the Milano Cortina 2026 Paralympic Winter Games",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "It's going to be eight hours, which is the most I believe all time for a winter Paralympics... the one that I'm so excited about is the live sled hockey gold medal game on NBC.",
+    "reason": "NBC is committing a record eight hours of big NBC broadcast time to the Winter Paralympics, a concrete metric showing the network's increasing investment in Paralympic coverage.",
+    "topics": [
+      "network strategy",
+      "sports broadcasting",
+      "ratings"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/7f05371e3adc.mp3",
+    "start_time": 243,
+    "end_time": 330
+  },
+  {
+    "id": "4d8ae94de6f1",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "How NBC is approaching coverage of the Milano Cortina 2026 Paralympic Winter Games",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "We've gone from three reporters to five... we've added friends and family camera, we've added ISO cameras to some of the venues, which is something we started doing for Paris. So again, it's each games improving on what we did the last games.",
+    "reason": "Specific details on NBC's expanded Paralympic production footprint — more reporters, additional camera rigs, and the Stanford remote production model — revealing how the network is scaling coverage incrementally toward LA 2028.",
+    "topics": [
+      "sports broadcasting",
+      "network strategy",
+      "Peacock"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/4d8ae94de6f1.mp3",
+    "start_time": 488,
+    "end_time": 592
+  },
+  {
+    "id": "e2ee33b502ef",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "How NBC is approaching coverage of the Milano Cortina 2026 Paralympic Winter Games",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "When the quad axle didn't happen, it's kind of like, ah, like that meant so much to him... the singling and then I believe the last jump he did was a fall on a double salchow that should have been a quad. Like it's the lack of rotations that were really starting to kind of raise flags for me.",
+    "reason": "A rare inside-the-control-room account of producing one of the biggest moments of the Milano Cortina Olympics — Ilia Malinin's shocking free skate collapse — with real-time scoring analysis from the producer's perspective.",
+    "topics": [
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/e2ee33b502ef.mp3",
+    "start_time": 1383,
+    "end_time": 1530
+  },
+  {
+    "id": "8545f0871f0b",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "How NBC is approaching coverage of the Milano Cortina 2026 Paralympic Winter Games",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "It was tricky because she skated early in the group... unlike Ilya who technically was in a different stratosphere, Alyssa was technically on point and really the Japanese athletes had the edge going into the free skate on paper, but taking the Olympic moment for your own and just doing like almost Sarah Hughes-esque.",
+    "reason": "Prating provides a producer's real-time strategic breakdown of Alysa Liu's gold medal skate, comparing it to Sarah Hughes' iconic 2002 upset and explaining why the outcome was genuinely uncertain during the broadcast.",
+    "topics": [
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/8545f0871f0b.mp3",
+    "start_time": 1832,
+    "end_time": 1960
+  },
+  {
+    "id": "1533b01c2095",
+    "podcast_name": "The Press Box",
+    "episode_title": "Trump’s Iran Media Rollout, the Paramount-CNN Crisis, and a Visit to Capitol Hill with Sen. Tim Kaine",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/922c06a0-782c-11ea-8b28-9333b94098ed/image/44989ce80f0b01f28b5ac5e5f602140b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "I'm watching CNN. I'm like cable news is supposed to be or soon to be a thing of the past. I'm not sure we've invented something that's better than CNN in a moment like that.",
+    "reason": "Substantive analysis of CNN's enduring value during breaking international news events, especially relevant given the imminent Paramount acquisition and potential gutting of CNN's international reporting capabilities.",
+    "topics": [
+      "cable decline",
+      "network strategy"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/1533b01c2095.mp3",
+    "start_time": 305,
+    "end_time": 410
+  },
+  {
+    "id": "ee38b1fa5916",
+    "podcast_name": "The Press Box",
+    "episode_title": "Trump’s Iran Media Rollout, the Paramount-CNN Crisis, and a Visit to Capitol Hill with Sen. Tim Kaine",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/922c06a0-782c-11ea-8b28-9333b94098ed/image/44989ce80f0b01f28b5ac5e5f602140b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "If Paramount won, they wanted those cable channels. Including CNN. And of course Paramount won. So, if all goes well, they will have CNN. Now CNN CEO Mark Thompson came out with a keep calm and carry on type statement... Bill and buyers over at Plexus that Mark Thompson is not even going to be part of the new company.",
+    "reason": "Key details on the Paramount-WBD acquisition's implications for CNN, including the likely departure of CNN CEO Mark Thompson and the structural difference between the Paramount and Netflix bids regarding cable channel assets.",
+    "topics": [
+      "industry deals",
+      "network strategy",
+      "cable decline"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/ee38b1fa5916.mp3",
+    "start_time": 960,
+    "end_time": 1090
+  },
+  {
+    "id": "9412af3f2393",
+    "podcast_name": "The Press Box",
+    "episode_title": "Trump’s Iran Media Rollout, the Paramount-CNN Crisis, and a Visit to Capitol Hill with Sen. Tim Kaine",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/922c06a0-782c-11ea-8b28-9333b94098ed/image/44989ce80f0b01f28b5ac5e5f602140b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Watch the Wall Street Journal reported in December. David Ellison offered assurances to Trump administration officials that if you bought Warner, he'd make sweeping changes to CNN.",
+    "reason": "Reveals the political dimension of the Paramount-WBD deal, with David Ellison reportedly promising the Trump administration ideological changes at CNN — raising serious concerns about editorial independence at a major news organization.",
+    "topics": [
+      "industry deals",
+      "network strategy"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/9412af3f2393.mp3",
+    "start_time": 1090,
+    "end_time": 1215
+  },
+  {
+    "id": "ff58979ab91f",
+    "podcast_name": "The Press Box",
+    "episode_title": "Trump’s Iran Media Rollout, the Paramount-CNN Crisis, and a Visit to Capitol Hill with Sen. Tim Kaine",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/922c06a0-782c-11ea-8b28-9333b94098ed/image/44989ce80f0b01f28b5ac5e5f602140b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Turner sports is a weird buffet that includes March madness, the Big 12, the French Open, college football playoff games... post season baseball and hockey, though those deals are about to expire. And inside the NBA, which is still produced by Turner, but licensed to ESPN.",
+    "reason": "Detailed inventory of Turner Sports' current rights portfolio and its uncertain future under the Paramount-WBD merger, directly relevant to sports media rights and the restructuring of major sports broadcasting entities.",
+    "topics": [
+      "media rights",
+      "sports broadcasting",
+      "network strategy",
+      "college sports rights"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/ff58979ab91f.mp3",
+    "start_time": 1698,
+    "end_time": 1830
+  },
+  {
+    "id": "d48a5e053b21",
+    "podcast_name": "The Press Box",
+    "episode_title": "Trump’s Iran Media Rollout, the Paramount-CNN Crisis, and a Visit to Capitol Hill with Sen. Tim Kaine",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/922c06a0-782c-11ea-8b28-9333b94098ed/image/44989ce80f0b01f28b5ac5e5f602140b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "CBS has NFL, the rest of March madness, the masters, crummy college football... they just paid $7 billion for UFC rights... Drew Lerner over at Alfa and Alcing writes, it's fair to say that this live sports portfolio would be rivaled only by ESPN.",
+    "reason": "Maps out the combined Paramount-CBS-Turner sports portfolio including the massive $7 billion UFC deal, arguing it would rival only ESPN in scope — a significant shift in the sports media landscape.",
+    "topics": [
+      "media rights",
+      "sports broadcasting",
+      "streaming strategy",
+      "ESPN",
+      "NFL deal"
+    ],
+    "people": [],
+    "relevance_score": 9,
+    "clip_audio": "clips/d48a5e053b21.mp3",
+    "start_time": 1830,
+    "end_time": 1975
+  },
+  {
+    "id": "b585ba9e4810",
+    "podcast_name": "The Press Box",
+    "episode_title": "Trump’s Iran Media Rollout, the Paramount-CNN Crisis, and a Visit to Capitol Hill with Sen. Tim Kaine",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/922c06a0-782c-11ea-8b28-9333b94098ed/image/44989ce80f0b01f28b5ac5e5f602140b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "No, we haven't hit the top of the value. And partly that's because what happened between the last time the NFL deal was signed in now, the NBA deal was signed... And the NFL looks like, oh, we're worth way more than that. So you've just sent another benchmark for us to exceed.",
+    "reason": "Sharp analysis of NFL rights valuation dynamics, arguing the recent NBA deal has reset the benchmark upward and that the next NFL deal will be even more expensive — critical insight for understanding the sports media rights market.",
+    "topics": [
+      "media rights",
+      "NFL deal",
+      "NBA deal",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/b585ba9e4810.mp3",
+    "start_time": 1975,
+    "end_time": 2120
+  },
+  {
+    "id": "ffbc841a9d36",
+    "podcast_name": "The Press Box",
+    "episode_title": "Trump’s Iran Media Rollout, the Paramount-CNN Crisis, and a Visit to Capitol Hill with Sen. Tim Kaine",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/922c06a0-782c-11ea-8b28-9333b94098ed/image/44989ce80f0b01f28b5ac5e5f602140b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "What's your Fox? Like, that is it, right? That's the ballgame. We are a network that has NFL football... You don't exist if you don't have that anymore.",
+    "reason": "Candid assessment that Fox's entire identity as a broadcast network is now essentially synonymous with its NFL rights, underscoring the existential importance of NFL deals to legacy networks.",
+    "topics": [
+      "media rights",
+      "NFL deal",
+      "network strategy",
+      "Fox Sports"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/ffbc841a9d36.mp3",
+    "start_time": 2017,
+    "end_time": 2060
+  },
+  {
+    "id": "4a6209779c27",
+    "podcast_name": "Sporticast",
+    "episode_title": "Inside a Duke Blue Devils Athletics Threat Assessment",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Duke hired Proskauer, the law firm that represents a bunch of the major sports leagues, to do basically a threat assessment for its entire athletic department on the topic of athlete unionization... there were three teams that Proskauer singled out as the biggest danger points for Duke unionizing. Those three were football, women's basketball, and lacrosse.",
+    "reason": "Reveals a leaked 46-page legal memorandum from a major sports law firm conducting a unionization threat assessment for a top university athletic department — a document type rarely made public that shows how seriously schools are treating athlete labor risks.",
+    "topics": [
+      "college sports rights",
+      "industry controversy"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/4a6209779c27.mp3",
+    "start_time": 122,
+    "end_time": 234
+  },
+  {
+    "id": "eb906a569573",
+    "podcast_name": "Sporticast",
+    "episode_title": "Inside a Duke Blue Devils Athletics Threat Assessment",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "At the risk of over-generalizing, they talked about how players on the men's lacrosse team are from more affluent backgrounds in the mid-Atlantic and the Northeast... tend to exhibit a greater sense of entitlement than any other athletes on campus.",
+    "reason": "A remarkably candid assessment from a high-powered law firm about socioeconomic profiles of athletes driving unionization risk, showing how demographic analysis factors into college sports labor strategy.",
+    "topics": [
+      "college sports rights",
+      "industry controversy"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/eb906a569573.mp3",
+    "start_time": 234,
+    "end_time": 310
+  },
+  {
+    "id": "61f98b56e39b",
+    "podcast_name": "Sporticast",
+    "episode_title": "Inside a Duke Blue Devils Athletics Threat Assessment",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "One of the main drivers was NIL opportunities... a lot of these Duke lacrosse players come from affluent backgrounds and have parents that are probably pushing them to take advantage of NIL opportunities, whether mom's a lawyer or dad's in finance.",
+    "reason": "Connects the growing trend of parents holding students back a grade to NIL monetization opportunities, and reveals how parental influence from affluent backgrounds is a factor in the Proskauer threat assessment for Duke athletics.",
+    "topics": [
+      "college sports rights"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/61f98b56e39b.mp3",
+    "start_time": 310,
+    "end_time": 414
+  },
+  {
+    "id": "9387eac9b208",
+    "podcast_name": "Sporticast",
+    "episode_title": "Inside a Duke Blue Devils Athletics Threat Assessment",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "One of the things was a 'hearts and minds campaign' with athletes... also 'sanitize the handbook of potential policies and language that could eventually serve as fodder if athletes tried to unionize.'",
+    "reason": "Directly quotes from the leaked legal document showing specific anti-unionization strategies recommended to Duke, including sanitizing institutional language — revealing the playbook major universities are using to counter athlete labor movements.",
+    "topics": [
+      "college sports rights",
+      "industry controversy"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/9387eac9b208.mp3",
+    "start_time": 414,
+    "end_time": 472
+  },
+  {
+    "id": "075ff1aa2f09",
+    "podcast_name": "Sporticast",
+    "episode_title": "Inside a Duke Blue Devils Athletics Threat Assessment",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a5051826-a976-11eb-875f-fb604defbecc/image/b3d6e57b45bec958762fc68ea2264a46.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Chaired by Ron DeSantis and Randy Levine, the president of the New York Yankees... it's going to be phased: one, take aim at getting the university's antitrust exemption, that'll stop the pavia lawsuits against the teams and the NCAA. Then the areas they want to take the hardest look at are NIL and whether or not athlete employment.",
+    "reason": "Breaks down the structure and phased agenda of Trump's new college sports reform commission, including specific policy targets around antitrust exemptions, NIL, and athlete employment status — with a goal of getting a bill before Congress by the midterms.",
+    "topics": [
+      "college sports rights"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/075ff1aa2f09.mp3",
+    "start_time": 1250,
+    "end_time": 1357
+  },
+  {
+    "id": "9eb1f3762eba",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "How David Ellison Plans to Mash Two Major Studios Into One",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The deck they provided said that within 24 months, they would bring leverage down to three times. There would be three billion of synergies that they would grow their EBITDA of $12 billion... $12 billion of EBITDA never grew above 12 billion. In fact, it is sub nine billion dollars today.",
+    "reason": "Greenfield draws a devastating parallel between WBD's failed 2021 projections and Ellison's nearly identical starting EBITDA of $12 billion, now projected to grow to $18 billion — a cautionary tale with specific financial metrics.",
+    "topics": [
+      "industry deals",
+      "streaming strategy"
+    ],
+    "people": [
+      "David Zaslav",
+      "David Ellison"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/9eb1f3762eba.mp3",
+    "start_time": 290,
+    "end_time": 430
+  },
+  {
+    "id": "e30585f8c57b",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "How David Ellison Plans to Mash Two Major Studios Into One",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "If you look at the linear TV plus streaming, Warner Mount is at 13.7% which would be the industry leader above YouTube at 12.5%. And Netflix is down there at a point eight. But most of that is linear.",
+    "reason": "Specific viewership share data showing the combined entity would lead all TV viewing — but the caveat that it's mostly linear undercuts the bullish case.",
+    "topics": [
+      "ratings",
+      "streaming strategy",
+      "cable decline"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/e30585f8c57b.mp3",
+    "start_time": 555,
+    "end_time": 620
+  },
+  {
+    "id": "8beb2d3f17d1",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "How David Ellison Plans to Mash Two Major Studios Into One",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Ted Sarandos told Lucas this weekend... that he thinks they're going to have to cut 16 billion. So where do you, financial analyst, where do you come down on this? Because 79 billion dollars in debt and where they are in EBITDA at 12 billion or so, that doesn't match up.",
+    "reason": "Ted Sarandos publicly speculating the combined company needs nearly triple the announced cost cuts is a significant competitive shot, and the $79 billion debt figure contextualizes the existential financial challenge.",
+    "topics": [
+      "industry deals",
+      "layoffs",
+      "streaming strategy"
+    ],
+    "people": [
+      "Ted Sarandos",
+      "David Ellison"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/8beb2d3f17d1.mp3",
+    "start_time": 630,
+    "end_time": 720
+  },
+  {
+    "id": "f25f3cbcd7dc",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "How David Ellison Plans to Mash Two Major Studios Into One",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Trying to execute on 30 films in that environment... you're going to have movies in theaters competing against yourself. That's every other week putting out a movie... And we have an example with Fox where Disney paid a lot of lip service at the beginning, and then ultimately Fox became a shell of itself.",
+    "reason": "Greenfield challenges the 15-films-per-studio commitment as practically unworkable given the box office crisis, with the Fox/Disney precedent as a warning that such promises often collapse.",
+    "topics": [
+      "network strategy",
+      "industry deals"
+    ],
+    "people": [
+      "David Ellison"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/f25f3cbcd7dc.mp3",
+    "start_time": 940,
+    "end_time": 1040
+  },
+  {
+    "id": "e1148e4997e4",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "How David Ellison Plans to Mash Two Major Studios Into One",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Any investor buying the stock today, you are making a bet that David Ellison can execute in a way that other executives in the space have failed. And he has no experience on his own of having done this.",
+    "reason": "A blunt Wall Street assessment that Ellison's track record doesn't support the scale of what he's attempting, framing the entire merger as a pure faith-based investment.",
+    "topics": [
+      "industry deals",
+      "streaming strategy"
+    ],
+    "people": [
+      "David Ellison"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/e1148e4997e4.mp3",
+    "start_time": 1150,
+    "end_time": 1230
+  },
+  {
+    "id": "dc3a11808bca",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "How David Ellison Plans to Mash Two Major Studios Into One",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "I would assume given Ellison's focus on rebuilding the tech of Paramount Plus, I would presume that the Warner Brothers tech moves over to Paramount's. And you basically just literally obliterate that entire part of the company. So you saved a billion dollars and you fired thousands of people that work on that.",
+    "reason": "Specific operational prediction about which tech stack survives — a billion-dollar decision affecting thousands of jobs that illustrates the brutal mechanics of studio merger integration.",
+    "topics": [
+      "layoffs",
+      "streaming strategy",
+      "industry deals"
+    ],
+    "people": [
+      "David Ellison"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/dc3a11808bca.mp3",
+    "start_time": 1660,
+    "end_time": 1770
+  },
+  {
+    "id": "16d0be6afc79",
+    "podcast_name": "The Town with Matthew Belloni",
+    "episode_title": "How David Ellison Plans to Mash Two Major Studios Into One",
+    "episode_date": "2026-03-03",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/65cb6846-98da-11ec-ae8b-ab10844a5b35/image/dffc46446e1323b34b80460927876c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Nobody believes Disney is going to evaporate. I think there's plenty of people that believe Paramount on its own or Warner Brothers on its own might evaporate... The question really is, do we look at this in four or five years and go, because of this merger, they were able to leap frog into a position of being a survivor.",
+    "reason": "Greenfield defines success not as dominance but mere survival — a stark framing of how dire the legacy media landscape has become, positioning the merger as an existential bet.",
+    "topics": [
+      "streaming strategy",
+      "direct-to-consumer",
+      "cable decline"
+    ],
+    "people": [
+      "David Ellison",
+      "David Zaslav"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/16d0be6afc79.mp3",
+    "start_time": 1869,
+    "end_time": 1960
+  },
+  {
     "id": "2e39037af3be",
     "podcast_name": "Marchand Sports Media",
     "episode_title": "The NBA's Shadow Over the NFL",
@@ -845,6 +2325,340 @@
     "clip_audio": "clips/8b084d7d607e.mp3",
     "start_time": 1572,
     "end_time": 1660
+  },
+  {
+    "id": "a638452b6bea",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "Burning NBA Questions and a “Holy Crap, Charlotte!!!” Deep Dive With Zach Lowe",
+    "episode_date": "2026-03-02",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "I never know what channel is on what game at any time. Just when I was going to use to the Fridays, that flipped. And now it's like ESPN's on Friday. I never know where the games are, but somehow the ratings are skyrocketing up even though people say they can't find where the game is.",
+    "reason": "Candid commentary on the fragmented NBA broadcast landscape across multiple networks and streamers, highlighting the tension between audience confusion and rising ratings under the new media rights deals.",
+    "topics": [
+      "media rights",
+      "ratings",
+      "ESPN",
+      "network strategy",
+      "sports broadcasting"
+    ],
+    "people": [
+      "Bill Simmons",
+      "Zach Lowe"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/a638452b6bea.mp3",
+    "start_time": 332,
+    "end_time": 399
+  },
+  {
+    "id": "d46b62ad085f",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "Burning NBA Questions and a “Holy Crap, Charlotte!!!” Deep Dive With Zach Lowe",
+    "episode_date": "2026-03-02",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Luca's MVP finishes by year... he's only had one third place finish and one fourth place finish. After eight years, if I told you this during his rookie year, would you have ever guessed this? No. I've picked him as my preseason MVP at least twice.",
+    "reason": "Surprising analytical deep dive into Luka Doncic's underwhelming MVP resume after eight seasons, challenging the widespread assumption that he would dominate the award by now.",
+    "topics": [
+      "NBA deal"
+    ],
+    "people": [
+      "Bill Simmons",
+      "Zach Lowe"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/d46b62ad085f.mp3",
+    "start_time": 3474,
+    "end_time": 3565
+  },
+  {
+    "id": "deb4167fb0ef",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "Burning NBA Questions and a “Holy Crap, Charlotte!!!” Deep Dive With Zach Lowe",
+    "episode_date": "2026-03-02",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "There are six seasons in the history of the NBA with 2000 minutes, 43% or better from three, at least eight threes per 36 minutes. Steph Curry, Steph Curry, Steph Curry, Clay Thompson, Desmond Bane, Duncan Robinson. And about to be Knipple.",
+    "reason": "Extraordinary statistical context placing Charlotte's Knipple in historically elite shooting company, underpinning the case that the Hornets' turnaround is built on a generational shooting talent.",
+    "topics": [
+      "NBA deal"
+    ],
+    "people": [
+      "Bill Simmons",
+      "Zach Lowe"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/deb4167fb0ef.mp3",
+    "start_time": 3700,
+    "end_time": 3820
+  },
+  {
+    "id": "ec02f151894c",
+    "podcast_name": "Bill Simmons Podcast",
+    "episode_title": "Burning NBA Questions and a “Holy Crap, Charlotte!!!” Deep Dive With Zach Lowe",
+    "episode_date": "2026-03-02",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/ca047470-781a-11ea-9a10-cfa05a5eeb3b/image/77359b6ee80a4426f76fd17b04ea819a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Could this Con, Miller, LaMelo threesome be the same kind of foundation that Curry and Clay were? Could you see a path for this nucleus adding one more guy... could this be like a real playoff team a year from now? There's no question they can be a real playoff team a year from now.",
+    "reason": "Bold analytical comparison of the Charlotte Hornets' young core to the early-stage Golden State Warriors dynasty, representing the episode's central thesis about a potential franchise-altering trajectory.",
+    "topics": [
+      "NBA deal",
+      "network strategy"
+    ],
+    "people": [
+      "Bill Simmons",
+      "Zach Lowe"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/ec02f151894c.mp3",
+    "start_time": 3840,
+    "end_time": 3980
+  },
+  {
+    "id": "a3e34dba8aed",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can MLS Win the World Cup?",
+    "episode_date": "2026-03-01",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Paramount has the Champions League, NBC's in the Premier League business, HBO is mated about with the US men's and women's teams, Fox has the World Cup — everybody has taken a piece of the football world because they know the football audience is devoted enough to pay the streaming fee.",
+    "reason": "A concise mapping of how major streamers and networks have carved up soccer rights in the U.S., directly connecting soccer's rise to streaming strategy and direct-to-consumer models.",
+    "topics": [
+      "media rights",
+      "streaming strategy",
+      "Fox Sports",
+      "Peacock",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/a3e34dba8aed.mp3",
+    "start_time": 1149,
+    "end_time": 1230
+  },
+  {
+    "id": "085008cf3312",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can MLS Win the World Cup?",
+    "episode_date": "2026-03-01",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Probably over half the teams in the Premier League are now owned by American sports investors — Fenway Sports Group, Boston Red Sox own Liverpool, Stan Kroenke owns Arsenal, the Glazers still at Manchester United, Todd Boehly and his group own Chelsea.",
+    "reason": "A detailed enumeration of American cross-sport ownership dominance in the Premier League, illustrating how U.S. capital is reshaping global soccer economics and creating potential conflicts with MLS growth.",
+    "topics": [
+      "industry deals",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/085008cf3312.mp3",
+    "start_time": 1650,
+    "end_time": 1740
+  },
+  {
+    "id": "0c19fbd04c6f",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can MLS Win the World Cup?",
+    "episode_date": "2026-03-01",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The Premier League was able to grow in that window where it had no competition. MLS has to fight against the best American sporting prime time opponents and that's its great challenge.",
+    "reason": "A sharp strategic insight about why the Premier League succeeded in the U.S. market by occupying early morning time slots with zero competition, while MLS faces the impossible task of competing against NFL, NBA, and college sports in prime time.",
+    "topics": [
+      "ratings",
+      "network strategy",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/0c19fbd04c6f.mp3",
+    "start_time": 1795,
+    "end_time": 1860
+  },
+  {
+    "id": "7f734b890c76",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can MLS Win the World Cup?",
+    "episode_date": "2026-03-01",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "World Cup final — last one, Messi and Mbappé — 1.5 billion people watched that together. There's nothing like it. And it's that sense of profound joyous cosmic connection.",
+    "reason": "A concrete viewership figure contextualizing the World Cup final's 1.5 billion audience against the Super Bowl's 200 million, framing the commercial and cultural scale of what U.S. broadcasters and advertisers are preparing for in 2026.",
+    "topics": [
+      "ratings",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/7f734b890c76.mp3",
+    "start_time": 2437,
+    "end_time": 2520
+  },
+  {
+    "id": "1ea93730a515",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "Netflix Walks, Paramount Wins, and the Ellisons Take Hollywood",
+    "episode_date": "2026-02-27",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "I actually got a call about 25 minutes before the announcement... a plugged in person who told me it's over. Netflix is walking.",
+    "reason": "Alex Sherman provides a real-time account of how the breaking news of Netflix dropping its bid for Warner Bros. Discovery unfolded, catching the entire industry off guard.",
+    "topics": [
+      "industry deals",
+      "streaming strategy",
+      "Netflix sports"
+    ],
+    "people": [
+      "Ted Sarandos"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/1ea93730a515.mp3",
+    "start_time": 162,
+    "end_time": 240
+  },
+  {
+    "id": "2b9bb2b13e1d",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "Netflix Walks, Paramount Wins, and the Ellisons Take Hollywood",
+    "episode_date": "2026-02-27",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The Netflix stock has tanked since all of this started happening... shares shot up 10% upon the news that Netflix was walking. Even this week when it looked like Paramount's chances were improving Netflix shares went up. And it's a real signal saying, hey Ted Sarandos, we would like it if you didn't buy Warner Bros. Discovery.",
+    "reason": "Detailed analysis of how Netflix shareholders effectively vetoed the Warner Bros. Discovery acquisition through stock price signals, combining market data with strategic implications for Ted Sarandos.",
+    "topics": [
+      "industry deals",
+      "streaming strategy"
+    ],
+    "people": [
+      "Ted Sarandos"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/2b9bb2b13e1d.mp3",
+    "start_time": 240,
+    "end_time": 376
+  },
+  {
+    "id": "b1562465e24b",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "Netflix Walks, Paramount Wins, and the Ellisons Take Hollywood",
+    "episode_date": "2026-02-27",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "When Warner Brothers went up on the block, they were concerned only that it didn't go into the hands of somebody for cheap... worst case scenario here, if we walk away with a breakup fee and we force Paramount to pay up the nose for this, that is not a bad situation necessarily for us.",
+    "reason": "Reveals Netflix's strategic calculus behind its bid — that even losing could be winning if it forced a competitor to overpay, a candid insider perspective on corporate deal strategy.",
+    "topics": [
+      "industry deals",
+      "streaming strategy"
+    ],
+    "people": [
+      "Ted Sarandos"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/b1562465e24b.mp3",
+    "start_time": 376,
+    "end_time": 478
+  },
+  {
+    "id": "0b07f2b77c9f",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "Netflix Walks, Paramount Wins, and the Ellisons Take Hollywood",
+    "episode_date": "2026-02-27",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "I think his son has gone from running a borderline irrelevant film studio to one of the largest media companies in the world.",
+    "reason": "Blunt insider assessment of David Ellison's trajectory and what the Paramount-Warner Bros. Discovery merger means for the Ellison family's ambitions in Hollywood.",
+    "topics": [
+      "industry deals",
+      "network strategy"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/0b07f2b77c9f.mp3",
+    "start_time": 548,
+    "end_time": 620
+  },
+  {
+    "id": "119278623a9f",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "Netflix Walks, Paramount Wins, and the Ellisons Take Hollywood",
+    "episode_date": "2026-02-27",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "There is a lot more anxiety depression among Warner Bros. Discovery employees with this going to Paramount... Netflix is not really in the theatrical business, not really even in the prestige TV business. So a lot of those leaders would have been left alone. That is not the case at Paramount.",
+    "reason": "Substantive insider reporting on WBD employee sentiment and the strategic logic behind why a Paramount acquisition means far more job losses than a Netflix deal would have, due to massive operational overlap.",
+    "topics": [
+      "layoffs",
+      "industry deals",
+      "network strategy"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/119278623a9f.mp3",
+    "start_time": 752,
+    "end_time": 850
+  },
+  {
+    "id": "a2f7af916e5a",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "Netflix Walks, Paramount Wins, and the Ellisons Take Hollywood",
+    "episode_date": "2026-02-27",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "It is still a publicly traded company... there's not a single example I think that you can point to of a large mega media merger between two legacy media companies that has really gone well.",
+    "reason": "Sherman delivers a stark historical verdict on legacy media mergers that frames the Paramount-WBD combination as likely to follow the same pattern of value destruction, despite the Ellison family's resources.",
+    "topics": [
+      "industry deals",
+      "streaming strategy",
+      "cable decline"
+    ],
+    "people": [
+      "David Zaslav"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/a2f7af916e5a.mp3",
+    "start_time": 1098,
+    "end_time": 1170
+  },
+  {
+    "id": "d3da1111eef2",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "Netflix Walks, Paramount Wins, and the Ellisons Take Hollywood",
+    "episode_date": "2026-02-27",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "It doesn't come up for market all that much... the signal to me is not so much that Netflix shareholders should be freaking out over this, but more that I think Netflix is in the market for legacy IP.",
+    "reason": "Forward-looking analysis suggesting Netflix's failed WBD bid signals a broader strategic appetite for legacy IP acquisitions, with speculation about potential future targets like the NBC/Universal library.",
+    "topics": [
+      "streaming strategy",
+      "industry deals"
+    ],
+    "people": [
+      "Ted Sarandos"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/d3da1111eef2.mp3",
+    "start_time": 1230,
+    "end_time": 1310
+  },
+  {
+    "id": "5ea388c3f79b",
+    "podcast_name": "Channels with Peter Kafka",
+    "episode_title": "Netflix Walks, Paramount Wins, and the Ellisons Take Hollywood",
+    "episode_date": "2026-02-27",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/e4384094-e69c-11e8-8066-d3e055e78c28/image/c9e40c7e1baaea55eee29ba9541579b7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "This is a deal that when you step back, looks like it was engineered by one of the president's closest allies who's also one of the richest men in the world... a rival bid that wasn't approved by the President of the United States didn't go through.",
+    "reason": "Peter Kafka directly frames the deal as a product of political influence from the Trump administration, raising fundamental questions about the intersection of political power and media consolidation.",
+    "topics": [
+      "industry deals",
+      "network strategy"
+    ],
+    "people": [],
+    "relevance_score": 9,
+    "clip_audio": "clips/5ea388c3f79b.mp3",
+    "start_time": 1340,
+    "end_time": 1428
   },
   {
     "id": "fbcf6d2bdf5c",
@@ -999,5 +2813,155 @@
     "clip_audio": "clips/c81cc4b17aeb.mp3",
     "start_time": 1540,
     "end_time": 1614
+  },
+  {
+    "id": "052874979c44",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "Golden viewership, Milan Cortina in the rearview, and the NHL’s Keith Wachtel",
+    "episode_date": "2026-02-26",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "We did some research that showed that had that game been in late afternoon, it could have done close to 35 million, which obviously would have been well above any record. And certainly outside of the Super Bowl probably the largest viewership of any sporting event in the year.",
+    "reason": "Keith Wachtel reveals specific NHL research projecting 35 million viewers for the gold medal game with a better time slot — a remarkable data point that underscores how scheduling decisions can dramatically impact sports viewership.",
+    "topics": [
+      "ratings",
+      "sports broadcasting",
+      "network strategy"
+    ],
+    "people": [
+      "Keith Wachtel"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/052874979c44.mp3",
+    "start_time": 549,
+    "end_time": 612
+  },
+  {
+    "id": "6942a5f8ff15",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "Golden viewership, Milan Cortina in the rearview, and the NHL’s Keith Wachtel",
+    "episode_date": "2026-02-26",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "Our television ratings are up well into the double digits this year... we're looking to grow fandom and we think that if you were watching this tournament and certainly the gold medal game, maybe you're more likely as a young kid to aspire to play hockey... I don't necessarily think that's going to show up specifically this week or next week in television ratings.",
+    "reason": "Wachtel offers a candid and realistic assessment that Olympic hockey success won't produce immediate TV ratings bumps for the NHL regular season, framing the value as long-term fan development rather than short-term viewership gains.",
+    "topics": [
+      "ratings",
+      "sports broadcasting",
+      "network strategy"
+    ],
+    "people": [
+      "Keith Wachtel"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/6942a5f8ff15.mp3",
+    "start_time": 693,
+    "end_time": 760
+  },
+  {
+    "id": "ff0c7c19bb20",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "Golden viewership, Milan Cortina in the rearview, and the NHL’s Keith Wachtel",
+    "episode_date": "2026-02-26",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "Steffano Diminacali, the head of Formula One, told racer.com this week that Apple's reach through its streaming and connectivity platforms will be bigger for the sport in the future than ESPN's was... I think it's a bit of a bold statement by Diminacali ahead of season one there on Apple TV because unless something changes, it's kind of a black hole for US audience numbers on Apple.",
+    "reason": "Sharp analysis challenging F1's CEO on the Apple TV+ deal versus ESPN, highlighting the ongoing lack of transparent viewership data from Apple and drawing a direct comparison to MLS's opaque performance on the platform.",
+    "topics": [
+      "Apple TV+",
+      "ESPN",
+      "media rights",
+      "streaming strategy",
+      "ratings"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/ff0c7c19bb20.mp3",
+    "start_time": 1235,
+    "end_time": 1294
+  },
+  {
+    "id": "2a495eadfd84",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "Golden viewership, Milan Cortina in the rearview, and the NHL’s Keith Wachtel",
+    "episode_date": "2026-02-26",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "Carolyn Kindle said that from her perspective regarding Major League Soccer, there does need to be something other than just Apple for fans in terms of exposure... sharp comments there from an owner as to Apple's strength in the sport space right now.",
+    "reason": "An MLS team owner publicly questioning the sufficiency of the Apple TV+ deal for fan exposure is a notable insider critique of one of the biggest streaming sports rights deals in recent years.",
+    "topics": [
+      "Apple TV+",
+      "streaming strategy",
+      "media rights"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/2a495eadfd84.mp3",
+    "start_time": 1294,
+    "end_time": 1370
+  },
+  {
+    "id": "e7767fc1acde",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "Golden viewership, Milan Cortina in the rearview, and the NHL’s Keith Wachtel",
+    "episode_date": "2026-02-26",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "The Braves are also reportedly in talks on distribution deals with Comcast, Charter, DirecTV, and possibly even on some VMPDs such as YouTube TV and Hulu Plus TV... a bold move to go it alone for the Braves versus maybe that relative safety of going under the MLB umbrella.",
+    "reason": "The Braves' decision to launch their own RSN rather than join MLB's centralized local broadcast solution represents a significant test case for team-level media independence after the collapse of regional sports networks.",
+    "topics": [
+      "cable decline",
+      "direct-to-consumer",
+      "sports broadcasting",
+      "network strategy"
+    ],
+    "people": [
+      "Rob Manfred"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/e7767fc1acde.mp3",
+    "start_time": 1370,
+    "end_time": 1460
+  },
+  {
+    "id": "38d5541d6ac8",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "Golden viewership, Milan Cortina in the rearview, and the NHL’s Keith Wachtel",
+    "episode_date": "2026-02-26",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "Cardinals president Bill DeWitt III estimated that the team's local media revenue will be roughly $18 million to $20 million lower this season than it was in 2025.",
+    "reason": "A specific revenue figure showing a major MLB franchise losing nearly $20 million in local media revenue year-over-year starkly illustrates the financial pain of the RSN collapse across baseball.",
+    "topics": [
+      "media rights",
+      "cable decline",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/38d5541d6ac8.mp3",
+    "start_time": 1460,
+    "end_time": 1510
+  },
+  {
+    "id": "af10717a60a8",
+    "podcast_name": "SBJ Sports Media Podcast",
+    "episode_title": "Golden viewership, Milan Cortina in the rearview, and the NHL’s Keith Wachtel",
+    "episode_date": "2026-02-26",
+    "episode_url": "https://www.sportsbusinessjournal.com/Podcasts/",
+    "episode_artwork": "https://image.simplecastcdn.com/images/df0613a7-f809-4315-8585-6a44edfcc664/777536ec-e01e-4e19-b25c-b351e2ae1dd0/3000x3000/sbj-thesportsmediapodcast-logo-final.jpg?aid=rss_feed",
+    "transcript": "A decision is likely coming soon on that four pack of games that the league got back from that ESPN equity deal. Sources told Ben Fisher and I that YouTube is a leader in the clubhouse for those games... probably worth at least a hundred million for each game.",
+    "reason": "Inside reporting on the NFL's disposition of four reclaimed games from the ESPN equity deal, with YouTube as the frontrunner and a $100M+ per-game valuation, reveals significant upcoming NFL media rights movement.",
+    "topics": [
+      "NFL deal",
+      "media rights",
+      "streaming strategy",
+      "ESPN"
+    ],
+    "people": [],
+    "relevance_score": 9,
+    "clip_audio": "clips/af10717a60a8.mp3",
+    "start_time": 1518,
+    "end_time": 1575
   }
 ]
