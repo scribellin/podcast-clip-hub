@@ -1,5 +1,179 @@
 [
   {
+    "id": "df5ee148a394",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "Sports Media Roundtable: CBS's longterm NFL desires and Jason Benetti joins NBC Sports",
+    "episode_date": "2026-03-07",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The NFL was a stakeholder in Skydance that was David Ellison's company. Skydance obviously bought Paramount, Paramount controls CBS Sports. So they're already partners in some capacity.",
+    "reason": "Austin Karp reveals the often-overlooked structural connection between the NFL and CBS through the Skydance/Paramount acquisition, adding important context to the NFL rights negotiation dynamics.",
+    "topics": [
+      "NFL deal",
+      "media rights",
+      "network strategy"
+    ],
+    "people": [
+      "David Zaslav",
+      "John Ourand",
+      "Lachlan Murdoch"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/df5ee148a394.mp3",
+    "start_time": 120,
+    "end_time": 260
+  },
+  {
+    "id": "e80408c0a793",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "Sports Media Roundtable: CBS's longterm NFL desires and Jason Benetti joins NBC Sports",
+    "episode_date": "2026-03-07",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Of all those networks, Fox is the least committed to broadcast television... Everything else is secondary. Obviously, they need the NFL to be able to operate, but maybe there's going to come a time where the NFL asks for a price that's too high.",
+    "reason": "John Lewis offers a candid structural analysis of Fox's unique position among NFL partners, arguing their cable news-centric business model makes them most likely to balk at escalating NFL rights fees.",
+    "topics": [
+      "NFL deal",
+      "media rights",
+      "Fox Sports",
+      "network strategy",
+      "cable decline"
+    ],
+    "people": [
+      "Lachlan Murdoch",
+      "Eric Shanks"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/e80408c0a793.mp3",
+    "start_time": 308,
+    "end_time": 415
+  },
+  {
+    "id": "f59ff3a779f7",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "Sports Media Roundtable: CBS's longterm NFL desires and Jason Benetti joins NBC Sports",
+    "episode_date": "2026-03-07",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "I'm looking at baseball after the 28 season, that deal is up for Fox. Are they going to stay as a partner primarily with the World Series? I think there's going to be a lot of change going on with baseball as to who are the broadcasters starting with the 2029 season.",
+    "reason": "Austin Karp flags a major upcoming rights cycle — Fox's MLB deal expiring after 2028 — and signals potential disruption in baseball broadcasting, with Fox possibly retreating from the sport.",
+    "topics": [
+      "media rights",
+      "Fox Sports",
+      "network strategy"
+    ],
+    "people": [
+      "Eric Shanks"
+    ],
+    "relevance_score": 7,
+    "clip_audio": "clips/f59ff3a779f7.mp3",
+    "start_time": 427,
+    "end_time": 540
+  },
+  {
+    "id": "47804edad8fd",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "Sports Media Roundtable: CBS's longterm NFL desires and Jason Benetti joins NBC Sports",
+    "episode_date": "2026-03-07",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "I will bet that Netflix or a streamer gets the 2030 Men's World Cup... I think Netflix goes all in for the Men's World Cup.",
+    "reason": "Richard Deitsch makes a specific prediction about Netflix acquiring the 2030 Men's World Cup US domestic rights, reflecting broader industry belief that streamers will eventually capture marquee global sports properties.",
+    "topics": [
+      "Netflix sports",
+      "media rights",
+      "streaming strategy"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/47804edad8fd.mp3",
+    "start_time": 540,
+    "end_time": 610
+  },
+  {
+    "id": "fb40ca8bc457",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "Sports Media Roundtable: CBS's longterm NFL desires and Jason Benetti joins NBC Sports",
+    "episode_date": "2026-03-07",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Benetti was not being utilized properly by Fox. You can't have Jason Benetti on your payroll and he's not doing any baseball playoff games... there's a lot of opportunity for him at NBC.",
+    "reason": "Detailed insider analysis of Jason Benetti's move from Fox to NBC as lead Sunday Night Baseball play-by-play announcer, with discussion of NBC's unusual decision to not pair him with a full-time analyst.",
+    "topics": [
+      "sports broadcasting",
+      "anchor talent",
+      "Fox Sports"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/fb40ca8bc457.mp3",
+    "start_time": 849,
+    "end_time": 1017
+  },
+  {
+    "id": "d3eebaca3cd5",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "Sports Media Roundtable: CBS's longterm NFL desires and Jason Benetti joins NBC Sports",
+    "episode_date": "2026-03-07",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "There's a realization that by going there, yeah you took the bag of cash... We learned our lesson from MLS. We got to get the message out there. We don't have that ESPN ecosphere anymore.",
+    "reason": "Austin Karp provides sharp analysis of F1 and Apple TV+'s strategy of distributing content across Tubi, Yahoo, and Netflix to compensate for the visibility limitations of being exclusively on a streaming platform — a direct lesson from MLS's Apple deal struggles.",
+    "topics": [
+      "Apple TV+",
+      "streaming strategy",
+      "direct-to-consumer",
+      "network strategy"
+    ],
+    "people": [],
+    "relevance_score": 9,
+    "clip_audio": "clips/d3eebaca3cd5.mp3",
+    "start_time": 1774,
+    "end_time": 1888
+  },
+  {
+    "id": "ad8c6b3bee11",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "Sports Media Roundtable: CBS's longterm NFL desires and Jason Benetti joins NBC Sports",
+    "episode_date": "2026-03-07",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "What's the most watched game of this year? Well, it's San Antonio Oklahoma City on Christmas... LeBron's 41, Steph's missed 15 straight games. You can't depend on their availability. And you also can't depend on their teams to be great teams, which is what matters most.",
+    "reason": "John Lewis contextualizes a historically low Lakers-Warriors ABC viewership number (2.18M) with broader NBA trends — aging stars, tanking, and the league's dependence on new matchups like Spurs-Thunder for its media rights value in Q2 playoffs.",
+    "topics": [
+      "ratings",
+      "NBA deal",
+      "sports broadcasting"
+    ],
+    "people": [
+      "Adam Silver"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/ad8c6b3bee11.mp3",
+    "start_time": 1892,
+    "end_time": 2020
+  },
+  {
+    "id": "fa02aa4ce33c",
+    "podcast_name": "Sports Media with Richard Deitsch",
+    "episode_title": "Sports Media Roundtable: CBS's longterm NFL desires and Jason Benetti joins NBC Sports",
+    "episode_date": "2026-03-07",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/a81ff0fe-0f94-11e9-adc8-e7fb890b88f4/image/97a1ffd3d951eeb3db936c4811985d60.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "These are the stories now that won't get told because if you're ESPN, you have much less investigative reporters and an investigative reporting ecosystem than you used to... Where the real killer is, is when it comes to news people not covering corruption.",
+    "reason": "A candid and specific discussion about the collapse of sports investigative journalism infrastructure at ESPN and major newspapers, using the Iowa State gymnastics shutdown as a case study for stories that no longer get covered.",
+    "topics": [
+      "ESPN",
+      "sports journalism",
+      "layoffs"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/fa02aa4ce33c.mp3",
+    "start_time": 2281,
+    "end_time": 2436
+  },
+  {
     "id": "4c3cf74f6514",
     "podcast_name": "Sports Media with Richard Deitsch",
     "episode_title": "Which media players are going to win on sports rights? The guest is Julia Alexander of Puck",
