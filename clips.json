@@ -1,5 +1,151 @@
 [
   {
+    "id": "78cc43c351d6",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can the NHL Find Its Groove?",
+    "episode_date": "2026-03-08",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The NFL is looking to have new deals in place before the new season starts in September... my sources expect the NFL to announce their deals one by one rather than wait until the ink is dry in all of them.",
+    "reason": "John Ourand breaks news about the NFL accelerating its media rights timeline, with deals expected before September and Paramount/CBS likely to be the first partner, setting the market price for all other negotiations.",
+    "topics": [
+      "media rights",
+      "NFL deal",
+      "network strategy"
+    ],
+    "people": [
+      "John Ourand"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/78cc43c351d6.mp3",
+    "start_time": 91,
+    "end_time": 184
+  },
+  {
+    "id": "57b147863972",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can the NHL Find Its Groove?",
+    "episode_date": "2026-03-08",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Nationally up before the Olympic break I think we're up 29% in the United States. The bump we've seen so far nationally is another 23%... I think 26 million people watched the medal game in the United States, another nine in Canada.",
+    "reason": "Gary Bettman provides specific viewership data showing significant NHL ratings growth — 29% pre-Olympics and an additional 23% post-Olympics — plus gold medal game audience figures, demonstrating the league's momentum.",
+    "topics": [
+      "ratings",
+      "sports broadcasting"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/57b147863972.mp3",
+    "start_time": 717,
+    "end_time": 793
+  },
+  {
+    "id": "789b5d35d07e",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can the NHL Find Its Groove?",
+    "episode_date": "2026-03-08",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Some will stand regional sports channels, a few of them are still viable. Some will go to direct streaming like a PMC and some are going over the air... in those cases the clubs have dramatically increased viewership.",
+    "reason": "Bettman outlines the NHL's multi-pronged approach to the RSN collapse affecting seven teams, including over-the-air broadcasts, direct-to-consumer streaming, and league-provided production capabilities — a window into how all sports leagues are navigating cable decline.",
+    "topics": [
+      "cable decline",
+      "streaming strategy",
+      "direct-to-consumer",
+      "media rights"
+    ],
+    "people": [],
+    "relevance_score": 8,
+    "clip_audio": "clips/789b5d35d07e.mp3",
+    "start_time": 1159,
+    "end_time": 1261
+  },
+  {
+    "id": "141e031d0453",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can the NHL Find Its Groove?",
+    "episode_date": "2026-03-08",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "Cable initially got its penetration 40 or so years ago on the back of sports, local sports... I think you're going to see more bundling on streaming and because sports content is the most important and most valuable I think it's going to maintain its premier position.",
+    "reason": "Bettman offers a historically informed take on the future of sports media distribution, predicting that streaming will replicate cable's bundling model with sports as the anchor — a significant strategic perspective from a league commissioner.",
+    "topics": [
+      "cable decline",
+      "streaming strategy",
+      "direct-to-consumer"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/141e031d0453.mp3",
+    "start_time": 1350,
+    "end_time": 1473
+  },
+  {
+    "id": "e1eef0100ee2",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can the NHL Find Its Groove?",
+    "episode_date": "2026-03-08",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "The NFL has a large footprint to say the least and in this environment if they sneeze we'll probably get pneumonia... I'm mindful the NFL has a large footprint... maybe we tuck under, maybe we wait till they're done, it's unpredictable.",
+    "reason": "Bettman candidly acknowledges the NFL's dominant position in the media rights marketplace and reveals the NHL's strategic calculus — potentially timing their own negotiations around the NFL's deals with ESPN and Turner/Paramount.",
+    "topics": [
+      "media rights",
+      "NFL deal",
+      "ESPN",
+      "network strategy"
+    ],
+    "people": [
+      "Jimmy Pitaro"
+    ],
+    "relevance_score": 9,
+    "clip_audio": "clips/e1eef0100ee2.mp3",
+    "start_time": 1427,
+    "end_time": 1570
+  },
+  {
+    "id": "979e49608c21",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can the NHL Find Its Groove?",
+    "episode_date": "2026-03-08",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "What's happening with Paramount and Warner Brothers Discovery is potentially very good for us... I would be very excited to see the opportunity that being with CBS and CBS Sports would present. Consider me a fan.",
+    "reason": "Bettman signals strong enthusiasm for the Paramount-Warner Bros. Discovery merger's potential impact on NHL rights, specifically the prospect of Stanley Cup Finals on CBS — a notable signal about the league's future media ambitions.",
+    "topics": [
+      "media rights",
+      "network strategy",
+      "industry deals"
+    ],
+    "people": [
+      "David Zaslav"
+    ],
+    "relevance_score": 8,
+    "clip_audio": "clips/979e49608c21.mp3",
+    "start_time": 1528,
+    "end_time": 1600
+  },
+  {
+    "id": "3ea01ed72056",
+    "podcast_name": "The Varsity",
+    "episode_title": "Can the NHL Find Its Groove?",
+    "episode_date": "2026-03-08",
+    "episode_url": "",
+    "episode_artwork": "https://megaphone.imgix.net/podcasts/6fa89856-58b9-11ef-bfa8-af3c1c52a7c5/image/6ee8d61495fe5aa724ebe77cb2c604d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "transcript": "I think there are seven or eight markets where we go head to head with our teams with major league baseball where our franchises are either more valuable or as valuable... our franchise values on average have gone up 100% in the last three years.",
+    "reason": "Bettman provides specific data on NHL franchise valuations surpassing MLB teams in multiple markets and a 100% average increase in three years, reflecting broader shifts in sports business economics.",
+    "topics": [
+      "ratings",
+      "industry deals"
+    ],
+    "people": [],
+    "relevance_score": 7,
+    "clip_audio": "clips/3ea01ed72056.mp3",
+    "start_time": 2167,
+    "end_time": 2280
+  },
+  {
     "id": "df5ee148a394",
     "podcast_name": "Sports Media with Richard Deitsch",
     "episode_title": "Sports Media Roundtable: CBS's longterm NFL desires and Jason Benetti joins NBC Sports",
